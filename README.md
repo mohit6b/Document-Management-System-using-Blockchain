@@ -2,7 +2,7 @@
 
 #A simple DApp to upload a document to IPFS and then store the IPFS hash on the Ethereum blockchain. Once the IPFS hash number is sent to the Ethereum blockchain, the user will receive a transaction receipt. We will use Create-React-App framework to make a front-end. This Dapp works with any user that has MetaMask installed in their browser.
 
-1). Open terminal and enter following : 
-    npm install , 
-    npm start
+1). Open terminal and enter following : <br />
+    npm install <br />
+    npm start 
 
